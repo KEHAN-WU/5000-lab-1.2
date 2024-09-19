@@ -1,0 +1,118 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+# Welcome to My Quarto Website (h1)
+
+This is my home. **Lorem iqsum dolor sit amet**
+
+## Website overview. (h2)
+
+Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data.
+(Amazon Web Service)
+
+### Website content(h3)
+
+The sheer volume of data that needs to be analyzed can also be overwhelming, leading to high levels of stress. Additionally, the need to stay updated with constantly evolving technologies and tools adds to the pressure.
+
+## About Java
+
+:::{.columns}
+::: {.column width="50%"}
+Advantages of Java
+There are a large number of applications in the world which use Java. Also, many organizations have opted for Java development to advance their competence in the market. However, by utilizing top Java frameworks, you can get the most out of this programming language. **Lorem ipsum dolor sit amet**
+:::
+
+::: {.column width="50%"}
+Disadvantages of Java
+Let’s understand Java disadvantages:
+
+Performance  
+Memory Consumption  
+Cost  
+Less Machine Interactive  
+
+(https://radixweb.com/blog/python-vs-java)
+:::
+:::
+
+## Bullet Point 
+Common Computer Language  
+1. Java  
+2. C++  
+3. Python  
+
+## Markdown Table
+
+| Product  | Description        | Price |
+|----------|--------------------|-------|
+| AMD CUP  | Ryzen 9 5900X      | $250  |
+| SSG SSD  | 980 PRO            | $90   |
+| Gef RTX  | 4070 12GB GDDR6X   | $550  |
+
+![AMD](images/image-amd.jpg)
+![Geforce](images/image-geforce.jpg)
+
+<video width="560" height="315" controls> 
+    <source src="videos/Cpu.mp4" type="video/mp4">
+ 
+ ## Mermaid Diagram Example
+
+
+
+ ```{mermaid}
+ %%| fig-cap: "Here is a Mermaid diagram"
+ %%| code-fold: false
+flowchart LR
+    A[Hard edge] --> B[Round edge]
+    B --> C[Decision]
+    C --> D[Result one]
+    C --> E[Result two]
+```
+
+
+## Inline Math Equation
+
+The formula to calculate speed is:
+
+$$
+v = \frac{d}{t}
+$$
+
+Where:
+ **$v$** is the speed (m/s)
+ **$V$** is the distance (m)
+ **$V$** is the time (s)
+
+For example, if a car travels 100 meters in 10 seconds, the speed would be:
+
+$$
+v = \frac{100 \,\text{m}}{10 \, \text{s}} = 10 \, \text{m/s}
+$$
+
+## Footnote Example
+
+This is the speed formula.[^1]
+
+[^1]:Speed is a scalar quantity that refers to "how fast an object is moving"
+
+## Quotation Example
+
+“Data is the new oil.”  
+— Clive Humby. 
+
+---
+
+In this section, we will reference some important works in the Data Science.
+[@wickham2023]
+
+:::{#refs}
+:::
+
+
+**Lorem ipsum dolor sit amet**
+
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

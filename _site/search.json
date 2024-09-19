@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is my home. Lorem iqsum dolor sit amet\n\n\nData science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. (Amazon Web Service)\n\n\nThe sheer volume of data that needs to be analyzed can also be overwhelming, leading to high levels of stress. Additionally, the need to stay updated with constantly evolving technologies and tools adds to the pressure.\n\n\n\n\n\n\nAdvantages of Java There are a large number of applications in the world which use Java. Also, many organizations have opted for Java development to advance their competence in the market. However, by utilizing top Java frameworks, you can get the most out of this programming language. Lorem ipsum dolor sit amet\n\nDisadvantages of Java Let’s understand Java disadvantages:\nPerformance\nMemory Consumption\nCost\nLess Machine Interactive\n(https://radixweb.com/blog/python-vs-java)\n\n\n\n\n\nCommon Computer Language\n1. Java\n2. C++\n3. Python\n\n\n\n\n\n\nProduct\nDescription\nPrice\n\n\n\n\nAMD CUP\nRyzen 9 5900X\n$250\n\n\nSSG SSD\n980 PRO\n$90\n\n\nGef RTX\n4070 12GB GDDR6X\n$550\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n %%| fig-cap: \"Here is a Mermaid diagram\"\n %%| code-fold: false\nflowchart LR\n    A[Hard edge] --&gt; B[Round edge]\n    B --&gt; C[Decision]\n    C --&gt; D[Result one]\n    C --&gt; E[Result two]\n\n\n\n\n\n\n\n\n\nThe formula to calculate speed is:\n\\[\nv = \\frac{d}{t}\n\\]\nWhere: \\(v\\) is the speed (m/s) \\(V\\) is the distance (m) \\(V\\) is the time (s)\nFor example, if a car travels 100 meters in 10 seconds, the speed would be:\n\\[\nv = \\frac{100 \\,\\text{m}}{10 \\, \\text{s}} = 10 \\, \\text{m/s}\n\\]\n\n\n\nThis is the speed formula.1\n\n\n\n“Data is the new oil.”\n— Clive Humby.\n\nIn this section, we will reference some important works in the Data Science. (wickham2023?)\n\n\n\nLorem ipsum dolor sit amet\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#website-overview.-h2",
+    "href": "index.html#website-overview.-h2",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. (Amazon Web Service)\n\n\nThe sheer volume of data that needs to be analyzed can also be overwhelming, leading to high levels of stress. Additionally, the need to stay updated with constantly evolving technologies and tools adds to the pressure."
+  },
+  {
+    "objectID": "index.html#about-java",
+    "href": "index.html#about-java",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Advantages of Java There are a large number of applications in the world which use Java. Also, many organizations have opted for Java development to advance their competence in the market. However, by utilizing top Java frameworks, you can get the most out of this programming language. Lorem ipsum dolor sit amet\n\nDisadvantages of Java Let’s understand Java disadvantages:\nPerformance\nMemory Consumption\nCost\nLess Machine Interactive\n(https://radixweb.com/blog/python-vs-java)"
+  },
+  {
+    "objectID": "index.html#bullet-point",
+    "href": "index.html#bullet-point",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Common Computer Language\n1. Java\n2. C++\n3. Python"
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Product\nDescription\nPrice\n\n\n\n\nAMD CUP\nRyzen 9 5900X\n$250\n\n\nSSG SSD\n980 PRO\n$90\n\n\nGef RTX\n4070 12GB GDDR6X\n$550"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram-example",
+    "href": "index.html#mermaid-diagram-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "%%| fig-cap: \"Here is a Mermaid diagram\"\n %%| code-fold: false\nflowchart LR\n    A[Hard edge] --&gt; B[Round edge]\n    B --&gt; C[Decision]\n    C --&gt; D[Result one]\n    C --&gt; E[Result two]"
+  },
+  {
+    "objectID": "index.html#inline-math-equation",
+    "href": "index.html#inline-math-equation",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "The formula to calculate speed is:\n\\[\nv = \\frac{d}{t}\n\\]\nWhere: \\(v\\) is the speed (m/s) \\(V\\) is the distance (m) \\(V\\) is the time (s)\nFor example, if a car travels 100 meters in 10 seconds, the speed would be:\n\\[\nv = \\frac{100 \\,\\text{m}}{10 \\, \\text{s}} = 10 \\, \\text{m/s}\n\\]"
+  },
+  {
+    "objectID": "index.html#footnote-example",
+    "href": "index.html#footnote-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is the speed formula.1"
+  },
+  {
+    "objectID": "index.html#quotation-example",
+    "href": "index.html#quotation-example",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "“Data is the new oil.”\n— Clive Humby.\n\nIn this section, we will reference some important works in the Data Science. (wickham2023?)\n\n\n\nLorem ipsum dolor sit amet\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSpeed is a scalar quantity that refers to “how fast an object is moving”↩︎"
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "---\ntitle: \"My Presentation\"\nformat: reavealjs\noutput:reavealjs::revealjs_presentation\nbibliogragphy: reference.bib\ntheme: white\ncode-fold:True\n---\n## Intro\nFirst slide\n\n## Date Science\nSecond slide\n\n![Data Science!!](images/data scicence.jpg)\nThis is a citation from my `reference.bib` file:@wickham2\n\n## Conclusion\nThird slide\n\n```python\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate data\nx = np.linspace(0,10,100)\ny = np.sin(x)\n\n#Create a plot\nplt.plot(x,y)\nplt.title(\"Roll Wave\")\nplt.show()"
+  }
+]
